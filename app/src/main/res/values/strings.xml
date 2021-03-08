@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">[Diab]-midT1</string>
+    <string name="activity1">You Are in Activity 1</string>
+    <string name="activity2">You Are in Activity 2</string>
+    <string name="activity3">You Are in Activity 3</string>
+    <string name="btt1">go to Act 1</string>
+    <string name="btt2">go to Act 2</string>
+    <string name="btt3">go to Act 3</string>>
+    <string name="name">Insert Your Name</string>
+    <string name="Nhint">Name</string>
+    <string name="Bhint">Insert birth date details</string>
+    <string name="r1">Male</string>
+    <string name="r2">Female</string>
+    <string name="instructor">Instructor</string>
+    <string name="student">Student</string>
+    <string name="Gender">Gender</string>
+    <string name="submit">Done</string>
+</resources>
